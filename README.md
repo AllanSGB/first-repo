@@ -8,5 +8,5 @@
 
 # Toni
 If you read this
-* send me and SMS
+* send me an SMS
 * watch your back :-)
